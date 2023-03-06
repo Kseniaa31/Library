@@ -45,8 +45,7 @@ To log in as a user use:
 Front-end is build using bootstrap framework.
 All the scripts are in the css file.
 
-Credits:
-This website was built by Ksenia Muho, Klea Karaj and Era Alcani. It uses the following libraries and tools:
+It uses the following libraries and tools:
 •	PHP
 •	MySQL
 •	HTML
